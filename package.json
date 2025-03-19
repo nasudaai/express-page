@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nasudaai/express-page/issues"
   },
-  "homepage": "https://github.com/nasudaai/express-page#readme"
+  "homepage": "https://github.com/nasudaai/express-page#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
